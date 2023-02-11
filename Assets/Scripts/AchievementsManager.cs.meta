@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df647d4d91faecb4099b23edf7e13e89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - achievementAlertTemplate: {fileID: 4034902419869063646, guid: e951849e18ca48e449724f7808fe072e, type: 3}
+  - achievementAlertsDisplay: {instanceID: 0}
+  - achievementDisplayTemplate: {instanceID: 0}
+  - achievementsListDisplay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

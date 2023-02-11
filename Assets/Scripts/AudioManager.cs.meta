@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 61a470df47f7dfb4d80bf96863f56266
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicPlayer: {instanceID: 0}
+  - soundEffectsPlayer: {instanceID: 0}
+  - achievementSound: {fileID: 8300000, guid: 779a6a3dbe9611848935bf351b3547be, type: 3}
+  - deathSound: {fileID: 8300000, guid: 0bfede48061c08f419cdb12aa5ef355d, type: 3}
+  - extraJumpSound: {fileID: 8300000, guid: 01372f03424eff64ab5e53889eff0a58, type: 3}
+  - gravityChangeSound: {fileID: 8300000, guid: 54323731f35c33040b70384fbf7824a5, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 213641840d82a1841bc4c2bbd858b5b7, type: 3}
+  - selectionSound: {fileID: 8300000, guid: b487e31385beebf4b9b466088de06792, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
